@@ -99,6 +99,7 @@ Free. No ads, no premium tier, no paywall. Every feature is free.
 - **Support:** stampd.support@gmail.com
 - **TikTok:** [tiktok.com/@stampdapp](https://www.tiktok.com/@stampdapp)
 - **Instagram:** [instagram.com/stampd.app](https://www.instagram.com/stampd.app/)
+- **Facebook:** [Facebook](https://www.facebook.com/profile.php?id=61578393172950)
 
 ## Built By
 
