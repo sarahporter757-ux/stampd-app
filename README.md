@@ -98,6 +98,7 @@ Free. No ads, no premium tier, no paywall. Every feature is free.
 - **Terms:** [heythereadventureseeker.com/terms.html](https://heythereadventureseeker.com/terms.html)
 - **Support:** stampd.support@gmail.com
 - **TikTok:** [tiktok.com/@stampdapp](https://www.tiktok.com/@stampdapp)
+- **Instagram:** [instagram.com/stampd.app](https://www.instagram.com/stampd.app/)
 
 ## Built By
 
