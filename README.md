@@ -81,7 +81,7 @@ Browse all guides at [adventure-seeker.com/trip-guides](https://adventure-seeker
 ## Platforms
 
 - **Web:** [heythereadventureseeker.com](https://heythereadventureseeker.com)
-- **iOS:** [App Store](https://apps.apple.com/app/id6760239126)
+- **iOS:** [App Store](https://apps.apple.com/app/id6760239126) (in review)
 - **Android:** Coming soon to Google Play
 
 ## Pricing
