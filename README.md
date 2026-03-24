@@ -92,7 +92,7 @@ Free. No ads, no premium tier, no paywall. Every feature is free.
 ## Links
 
 - **Website:** [adventure-seeker.com](https://adventure-seeker.com)
-- **App:** [heythereadventureseeker.com]([https://heythereadventureseeker.com](https://apple.co/47nE1M6))
+- **App:** [App Store](https://apple.co/47nE1M6)
 - **Help/FAQ:** [heythereadventureseeker.com/help.html](https://heythereadventureseeker.com/help.html)
 - **Privacy:** [heythereadventureseeker.com/privacy.html](https://heythereadventureseeker.com/privacy.html)
 - **Terms:** [heythereadventureseeker.com/terms.html](https://heythereadventureseeker.com/terms.html)
