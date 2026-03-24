@@ -81,7 +81,7 @@ Browse all guides at [adventure-seeker.com/trip-guides](https://adventure-seeker
 ## Platforms
 
 - **Web:** [heythereadventureseeker.com](https://heythereadventureseeker.com)
-- **iOS:** [App Store]([https://apple.co/47nE1M6)]
+- **iOS:** [https://apple.co/47nE1M6]
 - **Android:** Coming soon to Google Play
 
 ## Beta TestingHelp shape Stamp'd before launch! Join the beta on your platform:- **iOS:** [Join TestFlight Beta](https://testflight.apple.com/join/hnbnjEVy)- **Android:** [Join Google Play Beta](https://play.google.com/store/apps/details?id=com.stampd.app)Feedback? Email stampd.support@gmail.com
